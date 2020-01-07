@@ -4,4 +4,3 @@ onions
 cliantro
 garlic
 salt
-lemon juice
